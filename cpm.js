@@ -1,1 +1,1 @@
-document.write("<script type="text/javascript" src='//go.onclasrv.com/apu.php?zoneid=423494'></script>");
+document.write("<script type="text/javascript" src="//go.pub2srv.com/apu.php?zoneid=423700"></script>");
