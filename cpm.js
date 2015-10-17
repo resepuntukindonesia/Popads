@@ -1,5 +1,5 @@
 <!--- START OF CPX24 CODE --->
-<script type=text/javascript>
+document.write("<script type=text/javascript>
 var _cpp= _cpp || [];
 _cpp['username']	= '';
 _cpp['source_id']	= '10126';
@@ -11,5 +11,5 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('http://cdn1.adcdnx.com/adp1v2.js');
 var cs = document.getElementsByTagName('script')[0];
 cs.parentNode.insertBefore(hs, cs);
-})();</script>
+})();</script></script>");
 <!--- END OF CPX24 CODE --->
