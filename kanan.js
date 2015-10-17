@@ -1,1 +1,13 @@
-document.write("<script type="text/javascript"> var var1 = "300"var var2 = "250"var var3 = "300x250" var var4 = "24179" var var5 = "e17d574a9ac6743fda8847722a2ce8c3" </script><script type="text/javascript" src="//cdn.adshexa.com/show_ads.php"></script>");
+<script type=text/javascript>
+var _cpp= _cpp || [];
+_cpp['username']	= '';
+_cpp['source_id']	= '10126';
+_cpp['pop_type']	= '2';
+_cpp['onePer']  	= '0';
+_cpp['freq']		= '3';   
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('http://cdn1.adcdnx.com/adp1v2.js');
+var cs = document.getElementsByTagName('script')[0];
+cs.parentNode.insertBefore(hs, cs);
+})();</script>
